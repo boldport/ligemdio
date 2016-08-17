@@ -1,0 +1,73 @@
+{
+"pins":
+  {
+  "1TH":
+    {	
+      "layout": 
+      {
+        "pad": "th", 
+        "location": [-4.31, 0]
+      }
+    },
+  "2TH":
+    {	
+      "layout": 
+      {
+        "pad": "th", 
+        "location": [4.31, 0]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type":"rect",
+          "width": "4.5",
+          "height": "2",
+          "radii": {
+            "bl": 0.4, 
+            "br": 0.4, 
+            "tl": 0.4, 
+            "tr": 0.4
+          }, 
+          "style": "stroke"
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type":"rect",
+          "width":2.55,
+          "height":1.4
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "th":
+    {
+      "shapes":
+      [
+	{
+	  "layers": ["top","bottom"],
+	  "type": "circle",
+	  "diameter": 1.9
+	}
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "layout":
+  {
+    "pours":
+    {
+      "shapes":
+      [
+        {
+          "layers": ["bottom"],
+          "type": "layer"
+        }
+      ]
+    }
+  }  
+}
