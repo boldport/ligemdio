@@ -295,14 +295,14 @@
         -5.5, 
         -30.5
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "silkscreen": {
         "refdef": {
           "location": [
-            0.008081, 
-            2.257776
+            0, 
+            2.26
           ], 
-          "rotate": 0
+          "rotate": 180
         }
       }
     }, 
@@ -313,14 +313,14 @@
         5.5, 
         -30.5
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "silkscreen": {
         "refdef": {
           "location": [
-            0.021683, 
-            2.257776
+            0, 
+            2.26
           ], 
-          "rotate": 0
+          "rotate": 180
         }
       }
     }
