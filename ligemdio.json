@@ -97,7 +97,7 @@
           "show": false
         }, 
         "shapes": {
-          "show": false
+          "show": true
         }
       }
     }, 
@@ -105,8 +105,8 @@
       "footprint": "0805-led", 
       "layer": "top", 
       "location": [
-        8.038474, 
-        -38.871112
+        11.683946, 
+        -20.569
       ], 
       "silkscreen": {
         "refdef": {
@@ -131,23 +131,23 @@
           "show": false
         }, 
         "shapes": {
-          "show": false
+          "show": true
         }
       }
     }, 
     "LED3": {
-      "footprint": "round-cap", 
+      "footprint": "led-3mm", 
       "layer": "top", 
       "location": [
-        8.038474, 
-        -42.649087
+        11.683946, 
+        -24.911419
       ], 
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
           "location": [
-            0, 
-            3.290551
+            0.5, 
+            3.7
           ], 
           "rotate": 180
         }
@@ -301,7 +301,7 @@
       "footprint": "0805", 
       "layer": "top", 
       "location": [
-        -9.167363, 
+        8.330416, 
         -39.435556
       ], 
       "rotate": 90, 
@@ -365,7 +365,7 @@
       "footprint": "resistor_th", 
       "layer": "top", 
       "location": [
-        -9.167363, 
+        8.330416, 
         -39.435556
       ], 
       "rotate": 90, 
