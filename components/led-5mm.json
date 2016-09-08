@@ -24,19 +24,6 @@
     {
       "shapes":
       [
-        {
-          "type": "path",
-          "style": "stroke",
-          "layers": ["bottom"],
-          "stroke-width": 0.4,
-          "location": [0, 2.5],
-          "value": "m -1.274889,-37.897271 0,-1.204118 m 2.00312248,1.204118 0,-2.436576"
-        },
-	{
-	  "type": "circle",
-	  "layers": ["top"],
-          "diameter": 5.5
-	}
       ]
     },
     "assembly":
