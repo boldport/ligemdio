@@ -55,18 +55,7 @@
       "shapes":
       [
 	{
-	  "layers": ["top"],
-	  "type": "circle",
-	  "outline": 0,
-	  "diameter": 1.5,
-          "soldermask": {
-	    "type": "circle",
-	    "outline": 0,
-	    "diameter": 1.4
-          } 
-	},
-	{
-	  "layers": ["bottom"],
+	  "layers": ["top","bottom"],
 	  "type": "circle",
 	  "outline": 0,
 	  "diameter": 1.9 
