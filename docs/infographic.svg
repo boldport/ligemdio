@@ -13,7 +13,7 @@
    viewBox="0 0 297 210"
    width="297mm"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="infographic.svg"
    style="fill:#000000"
    inkscape:export-filename="/home/saar/proj/boards/ligemdio/docs/infographic.png"
@@ -37,12 +37,12 @@
      inkscape:document-units="mm"
      inkscape:window-maximized="1"
      inkscape:zoom="1.2967382"
-     inkscape:cx="410.82228"
-     inkscape:cy="287.47245"
-     inkscape:window-width="1885"
-     inkscape:window-height="1056"
-     inkscape:window-x="35"
-     inkscape:window-y="24"
+     inkscape:cx="585.35412"
+     inkscape:cy="321.67728"
+     inkscape:window-width="3770"
+     inkscape:window-height="2096"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
      inkscape:current-layer="g2402"
      fit-margin-top="10"
      fit-margin-right="10"
@@ -52,13 +52,13 @@
        emspacing="5"
        enabled="false"
        id="pcbmode-grid"
-       spacingx="0.1mm"
-       spacingy="0.1mm"
+       spacingx="0.1"
+       spacingy="0.099999998"
        type="xygrid"
        units="mm"
        visible="true"
        originx="150.8354"
-       originy="35.714932" />
+       originy="35.714931" />
   </sodipodi:namedview>
   <!--
 Hello! This SVG file was generated using PCBmodE version 4.1.dev9+ng7bc8ee6 on 2016-10-11 22:57:35 GMT. 
@@ -234,122 +234,135 @@ and is maintained by Boldport
      id="g2402">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5277778px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="103.88597"
        y="32.449707"
-       id="text8206"
-       sodipodi:linespacing="100%"><tspan
+       id="text8206"><tspan
          sodipodi:role="line"
          id="tspan8208"
          x="103.88597"
-         y="32.449707">33Ω: R1</tspan><tspan
+         y="32.449707"
+         style="font-size:3.52777791px;line-height:1">33Ω: R1</tspan><tspan
          sodipodi:role="line"
          x="103.88597"
-         y="35.624706"
-         id="tspan8212">1KΩ: R2,R5</tspan></text>
+         y="36.820435"
+         id="tspan8212"
+         style="font-size:3.52777791px;line-height:1">1KΩ: R2,R5</tspan></text>
     <text
-       sodipodi:linespacing="100%"
        id="text8216"
        y="-13.350626"
        x="50.737083"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="-13.350626"
          x="50.737083"
          sodipodi:role="line"
-         id="tspan10850">Connect each quadrant to either 'power' or 'sink'</tspan><tspan
-         y="-9.8228483"
+         id="tspan10850"
+         style="font-size:3.52777791px;line-height:1">Connect each quadrant to either 'power' or 'sink'</tspan><tspan
+         y="-8.9798994"
          x="52.500973"
          sodipodi:role="line"
-         id="tspan12043">(never both) by cutting the existing track or </tspan><tspan
-         y="-6.2950702"
+         id="tspan12043"
+         style="font-size:3.52777791px;line-height:1">(never both) by cutting the existing track or </tspan><tspan
+         y="-4.6091728"
          x="50.737083"
          sodipodi:role="line"
-         id="tspan8321">bridging using a solder 'blob'. Full</tspan><tspan
-         y="-2.7672923"
+         id="tspan8321"
+         style="font-size:3.52777791px;line-height:1">bridging using a solder 'blob'. Full</tspan><tspan
+         y="-0.23844643"
          x="52.500973"
          sodipodi:role="line"
-         id="tspan10862">circles indicate shorted jumper. </tspan></text>
+         id="tspan10862"
+         style="font-size:3.52777791px;line-height:1">circles indicate shorted jumper. </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="50.737083"
        y="-33.401993"
-       id="text8234"
-       sodipodi:linespacing="100%"><tspan
+       id="text8234"><tspan
          sodipodi:role="line"
          x="50.73708"
          y="-33.401993"
-         id="tspan10058">Place an SMD between the left (anode, 'power') and right</tspan><tspan
+         id="tspan10058"
+         style="font-size:3.52777791px;line-height:1">Place an SMD between the left (anode, 'power') and right</tspan><tspan
          sodipodi:role="line"
          x="50.73708"
-         y="-29.874214"
-         id="tspan10060">(cathode, 'sink') quadrants, as configured by default.</tspan><tspan
+         y="-29.031267"
+         id="tspan10060"
+         style="font-size:3.52777791px;line-height:1">(cathode, 'sink') quadrants, as configured by default.</tspan><tspan
          sodipodi:role="line"
          x="50.737087"
-         y="-26.346437"
-         id="tspan8259">It is possible to configure the circuit to drive a</tspan><tspan
+         y="-24.66054"
+         id="tspan8259"
+         style="font-size:3.52777791px;line-height:1">It is possible to configure the circuit to drive a</tspan><tspan
          sodipodi:role="line"
          x="50.737083"
-         y="-22.818659"
-         id="tspan10086">four-pin common-anode LED using the jumpers.</tspan></text>
+         y="-20.289814"
+         id="tspan10086"
+         style="font-size:3.52777791px;line-height:1">four-pin common-anode LED using the jumpers.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="51.422276"
        y="43.261574"
-       id="text8261"
-       sodipodi:linespacing="100%"><tspan
+       id="text8261"><tspan
          id="tspan8269"
          sodipodi:role="line"
          x="51.422279"
-         y="43.261574">Use J1 to connect external power when USB power isn't used.</tspan><tspan
+         y="43.261574"
+         style="font-size:3.52777791px;line-height:1">Use J1 to connect external power when USB power isn't used.</tspan><tspan
          sodipodi:role="line"
          x="51.422276"
-         y="46.789352"
-         id="tspan10840">If the jumper connection is cut then an enable/PWM signal</tspan><tspan
+         y="47.632301"
+         id="tspan10840"
+         style="font-size:3.52777791px;line-height:1">If the jumper connection is cut then an enable/PWM signal</tspan><tspan
          sodipodi:role="line"
          x="51.422279"
-         y="50.317131"
-         id="tspan10894">can be connected. You can insert and remove this</tspan><tspan
+         y="52.003025"
+         id="tspan10894"
+         style="font-size:3.52777791px;line-height:1">can be connected. You can insert and remove this</tspan><tspan
          sodipodi:role="line"
          x="51.422276"
-         y="53.844906"
-         id="tspan11071">four-pin connector without soldering.</tspan></text>
+         y="56.373753"
+         id="tspan11071"
+         style="font-size:3.52777791px;line-height:1">four-pin connector without soldering.</tspan></text>
     <text
-       sodipodi:linespacing="100%"
        id="text8286"
        y="63.305882"
        x="51.020115"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="63.305882"
          x="51.020115"
          sodipodi:role="line"
-         id="tspan10777">Solder the USB connector</tspan><tspan
-         y="66.833656"
+         id="tspan10777"
+         style="font-size:3.52777791px;line-height:1">Solder the USB connector</tspan><tspan
+         y="67.676605"
          x="51.020115"
          sodipodi:role="line"
-         id="tspan10945">on this side.</tspan></text>
+         id="tspan10945"
+         style="font-size:3.52777791px;line-height:1">on this side.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="88.201859"
-       y="-81.294601"
-       id="text8307"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         x="89.083809"
-         y="-81.294601"
-         id="tspan8315">Test LEDs with legs using </tspan><tspan
+       y="-83.940437"
+       id="text8307"><tspan
          sodipodi:role="line"
          x="89.083801"
-         y="-77.766823"
-         id="tspan8317">these connections. The square </tspan><tspan
+         y="-83.940437"
+         id="tspan8315"
+         style="font-size:3.52777791px;line-height:1">Test LEDs with legs using </tspan><tspan
          sodipodi:role="line"
          x="89.083801"
-         y="-74.239044"
-         id="tspan10112">pad is the for the LED's anode. </tspan></text>
+         y="-79.56971"
+         id="tspan8317"
+         style="font-size:3.52777791px;line-height:1">these connections. The square </tspan><tspan
+         sodipodi:role="line"
+         x="89.083801"
+         y="-75.198982"
+         id="tspan10112"
+         style="font-size:3.52777791px;line-height:1">pad is the for the LED's anode. </tspan></text>
     <path
        d="m 102.92617,-41.040099 c -0.0836,-0.0064 -0.17003,0.0038 -0.25366,0.0327 -0.3406,0.115558 -0.52312,0.48682 -0.41973,0.815257 0.11552,0.32844 0.46859,0.523123 0.81526,0.419721 0.34668,-0.09732 0.54724,-0.468569 0.4256,-0.815254 -0.0866,-0.264576 -0.31657,-0.433312 -0.56747,-0.452414 z"
        style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-opacity:0.6"
@@ -846,14 +859,14 @@ and is maintained by Boldport
          id="g926">
         <text
            x="4.3099999"
-           y="-0"
+           y="0"
            id="text928"
-           style="fill:#f4b937;fill-opacity:1">2TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2TH</text>
         <text
            x="-4.3099999"
-           y="-0"
+           y="0"
            id="text930"
-           style="fill:#f4b937;fill-opacity:1">1TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1TH</text>
       </g>
       <path
          d="M 0,0.95 C 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 c -0.52467051,0 -0.95,0.42532949 -0.95,0.95 0,0.52467051 0.42532949,0.95 0.95,0.95 z"
@@ -881,15 +894,15 @@ and is maintained by Boldport
          id="g938">
         <text
            x="-1.1"
-           y="-0"
+           y="0"
            id="text940"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
-           transform="scale(-1,-1)"
+           transform="scale(-1)"
            x="1.1"
-           y="-0"
+           y="0"
            id="text942"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       </g>
       <path
          d="m -0.5,0 0,-0.45 c 0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.25,0 0.5,0 0,0.7 0,0.7 -0.5,0 -0.25,0 C -0.388071,0.7 -0.5,0.588071 -0.5,0.45 L -0.5,0 Z"
@@ -919,13 +932,13 @@ and is maintained by Boldport
            x="-6.7355577e-17"
            y="-1.1"
            id="text952"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
-           transform="scale(-1,-1)"
+           transform="scale(-1)"
            x="6.7355577e-17"
            y="1.1"
            id="text954"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       </g>
       <path
          d="m 0,-0.5 0.45,0 c 0.138071,0 0.25,0.111929 0.25,0.25 l 0,0.25 0,0.5 -0.7,0 -0.7,0 0,-0.5 0,-0.25 c 0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.45,0 z"
@@ -953,15 +966,15 @@ and is maintained by Boldport
          id="g962">
         <text
            x="-1.1"
-           y="-0"
+           y="0"
            id="text964"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
-           transform="scale(-1,-1)"
+           transform="scale(-1)"
            x="1.1"
-           y="-0"
+           y="0"
            id="text966"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       </g>
       <path
          d="m -0.5,0 0,-0.45 c 0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.25,0 0.5,0 0,0.7 0,0.7 -0.5,0 -0.25,0 C -0.388071,0.7 -0.5,0.588071 -0.5,0.45 L -0.5,0 Z"
@@ -989,15 +1002,15 @@ and is maintained by Boldport
          id="g974">
         <text
            x="-1.1"
-           y="-0"
+           y="0"
            id="text976"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
-           transform="scale(-1,-1)"
+           transform="scale(-1)"
            x="1.1"
-           y="-0"
+           y="0"
            id="text978"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       </g>
       <path
          d="m -0.5,0 0,-0.45 c 0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.25,0 0.5,0 0,0.7 0,0.7 -0.5,0 -0.25,0 C -0.388071,0.7 -0.5,0.588071 -0.5,0.45 L -0.5,0 Z"
@@ -1025,15 +1038,15 @@ and is maintained by Boldport
          id="g986">
         <text
            x="-1.1"
-           y="-0"
+           y="0"
            id="text988"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
-           transform="scale(-1,-1)"
+           transform="scale(-1)"
            x="1.1"
-           y="-0"
+           y="0"
            id="text990"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       </g>
       <path
          d="m -0.5,0 0,-0.45 c 0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.25,0 0.5,0 0,0.7 0,0.7 -0.5,0 -0.25,0 C -0.388071,0.7 -0.5,0.588071 -0.5,0.45 L -0.5,0 Z"
@@ -1061,15 +1074,15 @@ and is maintained by Boldport
          id="g998">
         <text
            x="-1.1"
-           y="-0"
+           y="0"
            id="text1000"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
-           transform="scale(-1,-1)"
+           transform="scale(-1)"
            x="1.1"
-           y="-0"
+           y="0"
            id="text1002"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       </g>
       <path
          d="m -0.5,0 0,-0.45 c 0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.25,0 0.5,0 0,0.7 0,0.7 -0.5,0 -0.25,0 C -0.388071,0.7 -0.5,0.588071 -0.5,0.45 L -0.5,0 Z"
@@ -1097,14 +1110,14 @@ and is maintained by Boldport
          id="g1042">
         <text
            x="-1.27"
-           y="-0"
+           y="0"
            id="text1044"
-           style="fill:#f4b937;fill-opacity:1">1-LED</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1-LED</text>
         <text
            x="1.27"
-           y="-0"
+           y="0"
            id="text1046"
-           style="fill:#f4b937;fill-opacity:1">2-LED</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2-LED</text>
       </g>
       <path
          d="m 0,0.95 c 0.52467051,0 0.95,-0.42532949 0.95,-0.95 0,-0.39745446 -0.24407705,-0.73790168 -0.59051987,-0.87963037 -0.0539922,-0.022088 0.0260733,0.34083579 -0.0452252,0.59570023 -0.0751334,0.26857272 -0.21531656,0.56027926 -0.28059041,0.56027926 -0.13468651,0 -0.40735889,-0.25128499 -0.50976453,-0.48415538 -0.0954488,-0.21705062 -0.1087144,-0.549846 -0.19148647,-0.4680846 C -0.84194861,-0.50365778 -0.95,-0.26444727 -0.95,0 c 0,0.52467051 0.42532949,0.95 0.95,0.95 z"
@@ -1136,12 +1149,12 @@ and is maintained by Boldport
            x="2.6391138e-16"
            y="4.3099999"
            id="text1056"
-           style="fill:#f4b937;fill-opacity:1">2TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2TH</text>
         <text
            x="-2.6391138e-16"
            y="-4.3099999"
            id="text1058"
-           style="fill:#f4b937;fill-opacity:1">1TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1TH</text>
       </g>
       <path
          d="M -0.95,0 C -0.95,0.52467051 -0.52467051,0.95 0,0.95 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 -0.52467051,-0.95 -0.95,-0.52467051 -0.95,0 Z"
@@ -1171,12 +1184,12 @@ and is maintained by Boldport
            x="1.27"
            y="-1.5553014e-16"
            id="text1068"
-           style="fill:#f4b937;fill-opacity:1">1-LED</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1-LED</text>
         <text
            x="-1.27"
            y="1.5553014e-16"
            id="text1070"
-           style="fill:#f4b937;fill-opacity:1">2-LED</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2-LED</text>
       </g>
       <path
          d="m 0,-0.95 c -0.52467051,0 -0.95,0.42532949 -0.95,0.95 0,0.52467051 0.42532949,0.95 0.95,0.95 C 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 Z"
@@ -1204,14 +1217,14 @@ and is maintained by Boldport
          id="g1078">
         <text
            x="-1.27"
-           y="-0"
+           y="0"
            id="text1080"
-           style="fill:#f4b937;fill-opacity:1">1-LED</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1-LED</text>
         <text
            x="1.27"
-           y="-0"
+           y="0"
            id="text1082"
-           style="fill:#f4b937;fill-opacity:1">2-LED</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2-LED</text>
       </g>
       <path
          d="M 0,0.95 C 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 c -0.52467051,0 -0.95,0.42532949 -0.95,0.95 0,0.52467051 0.42532949,0.95 0.95,0.95 z"
@@ -1239,14 +1252,14 @@ and is maintained by Boldport
          id="g1090">
         <text
            x="4.3099999"
-           y="-0"
+           y="0"
            id="text1092"
-           style="fill:#f4b937;fill-opacity:1">2TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2TH</text>
         <text
            x="-4.3099999"
-           y="-0"
+           y="0"
            id="text1094"
-           style="fill:#f4b937;fill-opacity:1">1TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1TH</text>
       </g>
       <path
          d="M 0,0.95 C 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 c -0.52467051,0 -0.95,0.42532949 -0.95,0.95 0,0.52467051 0.42532949,0.95 0.95,0.95 z"
@@ -1274,14 +1287,14 @@ and is maintained by Boldport
          id="g1102">
         <text
            x="4.3099999"
-           y="-0"
+           y="0"
            id="text1104"
-           style="fill:#f4b937;fill-opacity:1">2TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2TH</text>
         <text
            x="-4.3099999"
-           y="-0"
+           y="0"
            id="text1106"
-           style="fill:#f4b937;fill-opacity:1">1TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1TH</text>
       </g>
       <path
          d="M 0,0.95 C 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 c -0.52467051,0 -0.95,0.42532949 -0.95,0.95 0,0.52467051 0.42532949,0.95 0.95,0.95 z"
@@ -1309,14 +1322,14 @@ and is maintained by Boldport
          id="g1114">
         <text
            x="4.3099999"
-           y="-0"
+           y="0"
            id="text1116"
-           style="fill:#f4b937;fill-opacity:1">2TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2TH</text>
         <text
            x="-4.3099999"
-           y="-0"
+           y="0"
            id="text1118"
-           style="fill:#f4b937;fill-opacity:1">1TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1TH</text>
       </g>
       <path
          d="M 0,0.95 C 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 c -0.52467051,0 -0.95,0.42532949 -0.95,0.95 0,0.52467051 0.42532949,0.95 0.95,0.95 z"
@@ -1346,17 +1359,17 @@ and is maintained by Boldport
            x="0"
            y="0"
            id="text1128"
-           style="fill:#f4b937;fill-opacity:1">2-B</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2-B</text>
         <text
            x="2.5999999"
            y="-3.1840816e-16"
            id="text1130"
-           style="fill:#f4b937;fill-opacity:1">3-E</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">3-E</text>
         <text
            x="-2.5999999"
            y="3.1840816e-16"
            id="text1132"
-           style="fill:#f4b937;fill-opacity:1">1-C</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1-C</text>
       </g>
       <path
          d="m 0,-0.75 c -0.41421356,0 -0.75,0.33578644 -0.75,0.75 0,0.41421356 0.33578644,0.75 0.75,0.75 C 0.41421356,0.75 0.75,0.41421356 0.75,0 0.75,-0.41421356 0.41421356,-0.75 0,-0.75 Z"
@@ -1392,17 +1405,17 @@ and is maintained by Boldport
            x="0"
            y="0"
            id="text1144"
-           style="fill:#f4b937;fill-opacity:1">2-B</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2-B</text>
         <text
            x="2.5999999"
            y="-3.1840816e-16"
            id="text1146"
-           style="fill:#f4b937;fill-opacity:1">3-E</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">3-E</text>
         <text
            x="-2.5999999"
            y="3.1840816e-16"
            id="text1148"
-           style="fill:#f4b937;fill-opacity:1">1-C</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1-C</text>
       </g>
       <path
          d="m 0,-0.75 c -0.41421356,0 -0.75,0.33578644 -0.75,0.75 0,0.41421356 0.33578644,0.75 0.75,0.75 C 0.41421356,0.75 0.75,0.41421356 0.75,0 0.75,-0.41421356 0.41421356,-0.75 0,-0.75 Z"
@@ -1438,12 +1451,12 @@ and is maintained by Boldport
            x="0.75"
            y="-9.1848507e-17"
            id="text1160"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
            x="-0.75"
            y="9.1848507e-17"
            id="text1162"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       </g>
       <path
          d="m 0,-0.6 c -0.33137085,0 -0.6,0.26862915 -0.6,0.6 0,0.33137085 0.26862915,0.6 0.6,0.6 C 0.33137085,0.6 0.6,0.33137085 0.6,0 0.6,-0.33137085 0.33137085,-0.6 0,-0.6 Z"
@@ -1473,22 +1486,22 @@ and is maintained by Boldport
            x="-3.8099999"
            y="0.127"
            id="text1172"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
            x="1.27"
            y="0.127"
            id="text1174"
-           style="fill:#f4b937;fill-opacity:1">3</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">3</text>
         <text
            x="-1.27"
            y="-0.127"
            id="text1176"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
         <text
            x="3.8099999"
            y="-0.127"
            id="text1178"
-           style="fill:#f4b937;fill-opacity:1">4</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">4</text>
       </g>
       <path
          d="M 0,0.95 C 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 c -0.52467051,0 -0.95,0.42532949 -0.95,0.95 0,0.52467051 0.42532949,0.95 0.95,0.95 z"
@@ -1530,14 +1543,14 @@ and is maintained by Boldport
          id="g1226">
         <text
            x="6.8499999"
-           y="-0"
+           y="0"
            id="text1228"
-           style="fill:#f4b937;fill-opacity:1">2TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2TH</text>
         <text
            x="-6.8499999"
-           y="-0"
+           y="0"
            id="text1230"
-           style="fill:#f4b937;fill-opacity:1">1TH</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1TH</text>
       </g>
       <path
          d="M 0,0.95 C 0.52467051,0.95 0.95,0.52467051 0.95,0 0.95,-0.52467051 0.52467051,-0.95 0,-0.95 c -0.52467051,0 -0.95,0.42532949 -0.95,0.95 0,0.52467051 0.42532949,0.95 0.95,0.95 z"
@@ -1565,15 +1578,15 @@ and is maintained by Boldport
          id="g1238">
         <text
            x="-1.1"
-           y="-0"
+           y="0"
            id="text1240"
-           style="fill:#f4b937;fill-opacity:1">1</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
         <text
-           transform="scale(-1,-1)"
+           transform="scale(-1)"
            x="1.1"
-           y="-0"
+           y="0"
            id="text1242"
-           style="fill:#f4b937;fill-opacity:1">2</text>
+           style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       </g>
       <path
          d="m -0.5,0 0,-0.45 c 0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.25,0 0.5,0 0,0.7 0,0.7 -0.5,0 -0.25,0 C -0.388071,0.7 -0.5,0.588071 -0.5,0.45 L -0.5,0 Z"
@@ -2797,42 +2810,42 @@ and is maintained by Boldport
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none;stroke-opacity:0.6"
        transform="matrix(1.1860592,0,0,1.1860592,88.327096,49.26366)">
       <text
-         style="fill:#f4b937;fill-opacity:1"
+         style="line-height:0%;fill:#f4b937;fill-opacity:1"
          id="text1192"
          y="-2.0999999"
          x="3.5">1</text>
       <text
-         style="fill:#f4b937;fill-opacity:1"
+         style="line-height:0%;fill:#f4b937;fill-opacity:1"
          id="text1194"
          y="-7.164184e-16"
          x="-5.8499999">M4</text>
       <text
-         style="fill:#f4b937;fill-opacity:1"
+         style="line-height:0%;fill:#f4b937;fill-opacity:1"
          id="text1196"
          y="-2.0999999"
          x="-1">3</text>
       <text
-         style="fill:#f4b937;fill-opacity:1"
+         style="line-height:0%;fill:#f4b937;fill-opacity:1"
          id="text1198"
          y="-2.0999999"
          x="1">2</text>
       <text
-         style="fill:#f4b937;fill-opacity:1"
+         style="line-height:0%;fill:#f4b937;fill-opacity:1"
          id="text1200"
          y="2.7554554e-16"
          x="2.25">M1</text>
       <text
-         style="fill:#f4b937;fill-opacity:1"
+         style="line-height:0%;fill:#f4b937;fill-opacity:1"
          id="text1202"
          y="-2.0999999"
          x="-3.5">4</text>
       <text
-         style="fill:#f4b937;fill-opacity:1"
+         style="line-height:0%;fill:#f4b937;fill-opacity:1"
          id="text1204"
          y="7.164184e-16"
          x="5.8499999">M3</text>
       <text
-         style="fill:#f4b937;fill-opacity:1"
+         style="line-height:0%;fill:#f4b937;fill-opacity:1"
          id="text1206"
          y="-2.7554554e-16"
          x="-2.25">M2</text>
@@ -3019,14 +3032,14 @@ and is maintained by Boldport
          id="g8471"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8473"
-           y="-0"
+           y="0"
            x="4.3099999">2TH</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8475"
-           y="-0"
+           y="0"
            x="-4.3099999">1TH</text>
       </g>
       <path
@@ -3054,14 +3067,14 @@ and is maintained by Boldport
          id="g8555"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8557"
-           y="-0"
+           y="0"
            x="-1.27">1-LED</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8559"
-           y="-0"
+           y="0"
            x="1.27">2-LED</text>
       </g>
       <path
@@ -3091,12 +3104,12 @@ and is maintained by Boldport
          id="g8567"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8569"
            y="4.3099999"
            x="2.6391138e-16">2TH</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8571"
            y="-4.3099999"
            x="-2.6391138e-16">1TH</text>
@@ -3126,12 +3139,12 @@ and is maintained by Boldport
          id="g8579"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8581"
            y="-1.5553014e-16"
            x="1.27">1-LED</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8583"
            y="1.5553014e-16"
            x="-1.27">2-LED</text>
@@ -3161,14 +3174,14 @@ and is maintained by Boldport
          id="g8591"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8593"
-           y="-0"
+           y="0"
            x="-1.27">1-LED</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8595"
-           y="-0"
+           y="0"
            x="1.27">2-LED</text>
       </g>
       <path
@@ -3196,14 +3209,14 @@ and is maintained by Boldport
          id="g8603"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8605"
-           y="-0"
+           y="0"
            x="4.3099999">2TH</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8607"
-           y="-0"
+           y="0"
            x="-4.3099999">1TH</text>
       </g>
       <path
@@ -3231,14 +3244,14 @@ and is maintained by Boldport
          id="g8615"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8617"
-           y="-0"
+           y="0"
            x="4.3099999">2TH</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8619"
-           y="-0"
+           y="0"
            x="-4.3099999">1TH</text>
       </g>
       <path
@@ -3266,14 +3279,14 @@ and is maintained by Boldport
          id="g8627"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8629"
-           y="-0"
+           y="0"
            x="4.3099999">2TH</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8631"
-           y="-0"
+           y="0"
            x="-4.3099999">1TH</text>
       </g>
       <path
@@ -3301,17 +3314,17 @@ and is maintained by Boldport
          id="g8639"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8641"
            y="0"
            x="0">2-B</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8643"
            y="-3.1840816e-16"
            x="2.5999999">3-E</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8645"
            y="3.1840816e-16"
            x="-2.5999999">1-C</text>
@@ -3347,17 +3360,17 @@ and is maintained by Boldport
          id="g8655"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8657"
            y="0"
            x="0">2-B</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8659"
            y="-3.1840816e-16"
            x="2.5999999">3-E</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8661"
            y="3.1840816e-16"
            x="-2.5999999">1-C</text>
@@ -3393,12 +3406,12 @@ and is maintained by Boldport
          id="g8671"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8673"
            y="-9.1848507e-17"
            x="0.75">1</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8675"
            y="9.1848507e-17"
            x="-0.75">2</text>
@@ -3428,22 +3441,22 @@ and is maintained by Boldport
          id="g8683"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8685"
            y="0.127"
            x="-3.8099999">1</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8687"
            y="0.127"
            x="1.27">3</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8689"
            y="-0.127"
            x="-1.27">2</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8691"
            y="-0.127"
            x="3.8099999">4</text>
@@ -3487,14 +3500,14 @@ and is maintained by Boldport
          id="g8703"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.1px;line-height:100%;font-family:'Sans serif';text-align:center;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#f4b937;fill-opacity:1;stroke:none">
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8705"
-           y="-0"
+           y="0"
            x="6.8499999">2TH</text>
         <text
-           style="fill:#f4b937;fill-opacity:1"
+           style="line-height:0%;fill:#f4b937;fill-opacity:1"
            id="text8707"
-           y="-0"
+           y="0"
            x="-6.8499999">1TH</text>
       </g>
       <path
@@ -3908,32 +3921,32 @@ and is maintained by Boldport
          x="3.5"
          y="-2.0999999"
          id="text9099"
-         style="fill:#f4b937;fill-opacity:1">1</text>
+         style="line-height:0%;fill:#f4b937;fill-opacity:1">1</text>
       <text
          x="-5.8499999"
          y="-7.164184e-16"
          id="text9101"
-         style="fill:#f4b937;fill-opacity:1">M4</text>
+         style="line-height:0%;fill:#f4b937;fill-opacity:1">M4</text>
       <text
          x="-1"
          y="-2.0999999"
          id="text9103"
-         style="fill:#f4b937;fill-opacity:1">3</text>
+         style="line-height:0%;fill:#f4b937;fill-opacity:1">3</text>
       <text
          x="1"
          y="-2.0999999"
          id="text9105"
-         style="fill:#f4b937;fill-opacity:1">2</text>
+         style="line-height:0%;fill:#f4b937;fill-opacity:1">2</text>
       <text
          x="-3.5"
          y="-2.0999999"
          id="text9109"
-         style="fill:#f4b937;fill-opacity:1">4</text>
+         style="line-height:0%;fill:#f4b937;fill-opacity:1">4</text>
       <text
          x="5.8499999"
          y="7.164184e-16"
          id="text9111"
-         style="fill:#f4b937;fill-opacity:1">M3</text>
+         style="line-height:0%;fill:#f4b937;fill-opacity:1">M3</text>
     </g>
     <path
        d="m -81.902797,46.772937 0,0 c 0,0.524034 0.424813,0.948847 0.948847,0.948847 l 0,0 0.711636,0 c 0.131008,0 0.237212,-0.1062 0.237212,-0.237212 l 0,-0.711635 0,-0.711636 c 0,-0.131008 -0.1062,-0.237211 -0.237212,-0.237211 l -0.711636,0 -0.711635,0 c -0.131009,0 -0.237212,0.106199 -0.237212,0.237211 l 0,0.711636 z"
@@ -4128,155 +4141,186 @@ and is maintained by Boldport
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <text
-       sodipodi:linespacing="100%"
        id="text9877"
-       y="-37.804092"
+       y="-39.920761"
        x="-164.39476"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:100%;font-family:Asul;-inkscape-font-specification:'Asul, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Asul;-inkscape-font-specification:'Asul, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-37.804092"
+         y="-39.920761"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan9901" /><tspan
-         y="-34.276314"
+         id="tspan9901"
+         style="font-size:3.52777791px;line-height:1"> </tspan><tspan
+         y="-35.764675"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan10963">The circuit primarily relies on the near</tspan><tspan
-         y="-30.748537"
+         id="tspan10963"
+         style="font-size:3.52777791px;line-height:1">The circuit primarily relies on the near</tspan><tspan
+         y="-31.608587"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan9905">constant voltage drop between the</tspan><tspan
-         y="-27.220758"
+         id="tspan9905"
+         style="font-size:3.52777791px;line-height:1">constant voltage drop between the</tspan><tspan
+         y="-27.452501"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan10979">base (B) and emitter (E) of transistor</tspan><tspan
-         y="-23.69298"
+         id="tspan10979"
+         style="font-size:3.52777791px;line-height:1">base (B) and emitter (E) of transistor</tspan><tspan
+         y="-23.296413"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan10969">T2 to keep the voltage across R1 also</tspan><tspan
-         y="-20.165203"
+         id="tspan10969"
+         style="font-size:3.52777791px;line-height:1">T2 to keep the voltage across R1 also</tspan><tspan
+         y="-19.140327"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan10987">'constant'. In turn this keeps the</tspan><tspan
-         y="-16.637424"
+         id="tspan10987"
+         style="font-size:3.52777791px;line-height:1">'constant'. In turn this keeps the</tspan><tspan
+         y="-14.984239"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan10991">current for the LED 'constant'.</tspan><tspan
-         y="-13.109647"
+         id="tspan10991"
+         style="font-size:3.52777791px;line-height:1">current for the LED 'constant'.</tspan><tspan
+         y="-10.828152"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan9907" /><tspan
-         y="-9.5818691"
+         id="tspan9907"
+         style="font-size:3.52777791px;line-height:1"> </tspan><tspan
+         y="-6.6720657"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan10999">This is an approximation. What other </tspan><tspan
-         y="-6.054091"
+         id="tspan10999"
+         style="font-size:3.52777791px;line-height:1">This is an approximation. What other </tspan><tspan
+         y="-2.5159788"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11003">factors and features of the circuit</tspan><tspan
-         y="-2.5263133"
+         id="tspan11003"
+         style="font-size:3.52777791px;line-height:1">factors and features of the circuit</tspan><tspan
+         y="1.6401081"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11005">affect the current the LED</tspan><tspan
-         y="1.0014646"
+         id="tspan11005"
+         style="font-size:3.52777791px;line-height:1">affect the current the LED</tspan><tspan
+         y="5.796195"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11135">experiences?</tspan><tspan
-         y="4.5292425"
+         id="tspan11135"
+         style="font-size:3.52777791px;line-height:1">experiences?</tspan><tspan
+         y="9.952282"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan10995" /><tspan
-         y="8.0570202"
+         id="tspan10995"
+         style="font-size:3.52777791px;line-height:1"> </tspan><tspan
+         y="14.108369"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11015">What is the voltage across at point A?</tspan><tspan
-         y="11.584799"
+         id="tspan11015"
+         style="font-size:3.52777791px;line-height:1">What is the voltage across at point A?</tspan><tspan
+         y="18.264456"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11147">What, then, is the current going</tspan><tspan
-         y="15.112576"
+         id="tspan11147"
+         style="font-size:3.52777791px;line-height:1">What, then, is the current going</tspan><tspan
+         y="22.420542"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan9929">through R1? What is the current</tspan><tspan
-         y="18.640354"
+         id="tspan9929"
+         style="font-size:3.52777791px;line-height:1">through R1? What is the current</tspan><tspan
+         y="26.57663"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11021">through the LED under test? Are the</tspan><tspan
-         y="22.168133"
+         id="tspan11021"
+         style="font-size:3.52777791px;line-height:1">through the LED under test? Are the</tspan><tspan
+         y="30.732716"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan9923">values the same? If not, why? Why</tspan><tspan
-         y="25.748974"
+         id="tspan9923"
+         style="font-size:3.52777791px;line-height:1">values the same? If not, why? Why</tspan><tspan
+         y="34.888802"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11027">did we supply a 33Ω resistor and</tspan><tspan
-         y="29.276751"
+         id="tspan11027"
+         style="font-size:3.52777791px;line-height:1">did we supply a 33Ω resistor and</tspan><tspan
+         y="39.124588"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan9925">not one with a 'better' value?</tspan><tspan
-         y="32.804527"
+         id="tspan9925"
+         style="font-size:3.52777791px;line-height:1">not one with a 'better' value?</tspan><tspan
+         y="43.280678"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11033">What values of resistors for R1, R2,</tspan><tspan
-         y="36.332306"
+         id="tspan11033"
+         style="font-size:3.52777791px;line-height:1">What values of resistors for R1, R2,</tspan><tspan
+         y="47.436764"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11039">and R3 would you use to get 5.7mA, </tspan><tspan
-         y="39.860085"
+         id="tspan11039"
+         style="font-size:3.52777791px;line-height:1">and R3 would you use to get 5.7mA, </tspan><tspan
+         y="51.59285"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11181">12mA, and 2.5mA? What happens</tspan><tspan
-         y="43.387863"
+         id="tspan11181"
+         style="font-size:3.52777791px;line-height:1">12mA, and 2.5mA? What happens</tspan><tspan
+         y="55.748936"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11183">when two LEDs are tested at the </tspan><tspan
-         y="46.915642"
+         id="tspan11183"
+         style="font-size:3.52777791px;line-height:1">when two LEDs are tested at the </tspan><tspan
+         y="59.905025"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan12031">same time?</tspan><tspan
-         y="50.44342"
+         id="tspan12031"
+         style="font-size:3.52777791px;line-height:1">same time?</tspan><tspan
+         y="64.061111"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11041" /><tspan
-         y="53.971195"
+         id="tspan11041"
+         style="font-size:3.52777791px;line-height:1"> </tspan><tspan
+         y="68.217201"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11045">A simulation of the circuit could provide</tspan><tspan
-         y="57.498974"
+         id="tspan11045"
+         style="font-size:3.52777791px;line-height:1">A simulation of the circuit could provide</tspan><tspan
+         y="72.373283"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan11187">some answers.</tspan><tspan
-         y="61.026752"
+         id="tspan11187"
+         style="font-size:3.52777791px;line-height:1">some answers.</tspan><tspan
+         y="76.529373"
          x="-164.39476"
          sodipodi:role="line"
-         id="tspan9917" /></text>
+         id="tspan9917"
+         style="font-size:3.52777791px;line-height:1"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:120.00000477%;font-family:Asul;-inkscape-font-specification:'Asul, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Asul;-inkscape-font-specification:'Asul, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-23.742727"
        y="-73.813812"
-       id="text5178"
-       sodipodi:linespacing="120%"><tspan
+       id="text5178"><tspan
          sodipodi:role="line"
-         x="-23.742729"
+         x="-23.742727"
          y="-73.813812"
-         id="tspan5180">LIGEMDIO is an LED tester soldering kit with a</tspan><tspan
+         id="tspan5180"
+         style="font-size:3.88055611px;line-height:1.20000005">LIGEMDIO is an LED tester soldering kit with a</tspan><tspan
          sodipodi:role="line"
-         x="-23.742729"
+         x="-23.742725"
          y="-69.157143"
-         id="tspan9954">'good enough' constant current LED driver.</tspan><tspan
+         id="tspan9954"
+         style="font-size:3.88055611px;line-height:1.20000005">'good enough' constant current LED driver.</tspan><tspan
          id="tspan5212"
          sodipodi:role="line"
-         x="-23.742727"
-         y="-64.500481" /><tspan
+         x="-23.068178"
+         y="-64.500481"
+         style="font-size:3.88055611px;line-height:1.20000005"> </tspan><tspan
          id="tspan5214"
          sodipodi:role="line"
-         x="-23.742727"
-         y="-59.843811" /></text>
+         x="-23.068178"
+         y="-59.843811"
+         style="font-size:3.88055611px;line-height:1.20000005"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5216"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.28222222,0,0,0.28222222,-172.08893,-72.721797)"><flowRegion
          id="flowRegion5218"><rect
            id="rect5220"
@@ -4284,12 +4328,12 @@ and is maintained by Boldport
            height="98.709206"
            x="-4.6269941"
            y="7.1246214" /></flowRegion><flowPara
-         id="flowPara5222"></flowPara></flowRoot>    <text
-       sodipodi:linespacing="125%"
+         id="flowPara5222"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <text
        id="text5300"
        y="85.704483"
        x="60.784519"
-       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.72841597px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Light Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/saar/Documents/lig-card.png"
        inkscape:export-xdpi="149.98488"
@@ -4297,7 +4341,8 @@ and is maintained by Boldport
          y="85.704483"
          x="60.784519"
          sodipodi:role="line"
-         id="tspan5435">Mirror graphic from onlinewebfonts.com/icon, CC BY 3.0</tspan></text>
+         id="tspan5435"
+         style="font-size:2.72841597px;line-height:1.25">Mirror graphic from onlinewebfonts.com/icon, CC BY 3.0</tspan></text>
     <g
        id="g10813"
        transform="matrix(0.75238099,0,0,0.75238099,-5.8410683,-104.63143)"
@@ -4306,11 +4351,10 @@ and is maintained by Boldport
          inkscape:export-ydpi="149.98488"
          inkscape:export-xdpi="149.98488"
          inkscape:export-filename="/home/saar/Documents/lig-card.png"
-         sodipodi:linespacing="125%"
          id="text5286"
          y="56.624641"
          x="-49.398369"
-         style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:5.06097603px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Ultra-Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.06097698px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="tspan5290"
@@ -4318,11 +4362,10 @@ and is maintained by Boldport
            x="-49.398369"
            sodipodi:role="line">A Boldport Club project</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text5409"
          y="70.270821"
          x="-49.50914"
-         style="font-style:normal;font-weight:normal;font-size:7.41315746px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.16989231px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="70.270821"
@@ -4331,11 +4374,10 @@ and is maintained by Boldport
            sodipodi:role="line">http://boldport.com/ligemdio</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.41315746px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="-43.652382"
          y="66.434586"
-         id="text6060"
-         sodipodi:linespacing="125%"><tspan
+         id="text6060"><tspan
            sodipodi:role="line"
            id="tspan6062"
            x="-43.652382"
@@ -4567,26 +4609,24 @@ and is maintained by Boldport
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.22347641px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-53.785957"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-53.785938"
        y="-110.53486"
-       id="text5401-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text5401-7"><tspan
          sodipodi:role="line"
          id="tspan5403-4"
-         x="-53.785957"
+         x="-53.785938"
          y="-110.53486"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.22347736px;line-height:125%;font-family:Asul;-inkscape-font-specification:'Asul, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">LIGEMDIO</tspan></text>
     <text
-       sodipodi:linespacing="89.999998%"
        id="text5405-3"
        y="-104.4495"
-       x="-52.608421"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.95029688px;line-height:89.99999762%;font-family:Asul;-inkscape-font-specification:'Asul, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-52.608402"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Asul;-inkscape-font-specification:'Asul, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.95029688px;line-height:89.99999762%;font-family:Asul;-inkscape-font-specification:'Asul, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
          y="-104.4495"
-         x="-52.608421"
+         x="-52.608402"
          sodipodi:role="line"
          id="tspan5413-5">An LED tester soldering kit</tspan></text>
     <g
@@ -4646,62 +4686,73 @@ and is maintained by Boldport
        inkscape:connector-curvature="0"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.05128061;stroke-opacity:0.6" />
     <text
-       sodipodi:linespacing="110%"
        id="text9962"
        y="-78.171059"
        x="-164.25824"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:110.00000238%;font-family:Asul;-inkscape-font-specification:'Asul, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Asul;-inkscape-font-specification:'Asul, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan9968"
          y="-78.171059"
          x="-164.25824"
-         sodipodi:role="line" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.88055611px;line-height:1.10000002"> </tspan><tspan
          y="-73.902451"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan10018"><tspan
+         id="tspan10018"
+         style="font-size:3.88055611px;line-height:1.10000002"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:110.00000238%;font-family:Asul;-inkscape-font-specification:'Asul, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
    id="tspan11636">A</tspan>n ideal constant current driver supplies a</tspan><tspan
          y="-69.633835"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan10044">specific amount of current regardless of</tspan><tspan
+         id="tspan10044"
+         style="font-size:3.88055611px;line-height:1.10000002">specific amount of current regardless of</tspan><tspan
          y="-65.365227"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan11087">supply voltage and other environmental</tspan><tspan
-         y="-61.096615"
+         id="tspan11087"
+         style="font-size:3.88055611px;line-height:1.10000002">supply voltage and other environmental</tspan><tspan
+         y="-61.096611"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan9980">conditions, like temperature. The</tspan><tspan
-         y="-56.828003"
+         id="tspan9980"
+         style="font-size:3.88055611px;line-height:1.10000002">conditions, like temperature. The</tspan><tspan
+         y="-56.827999"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan11093">LIGEMDIO's simple circuit does</tspan><tspan
-         y="-52.559391"
+         id="tspan11093"
+         style="font-size:3.88055611px;line-height:1.10000002">LIGEMDIO's simple circuit does</tspan><tspan
+         y="-52.559387"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan10052">this reasonably well using only </tspan><tspan
-         y="-48.290779"
+         id="tspan10052"
+         style="font-size:3.88055611px;line-height:1.10000002">this reasonably well using only </tspan><tspan
+         y="-48.290775"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan11099">two NPN bipolar transistors</tspan><tspan
-         y="-44.022167"
+         id="tspan11099"
+         style="font-size:3.88055611px;line-height:1.10000002">two NPN bipolar transistors</tspan><tspan
+         y="-44.022163"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan11101">and two resistors.</tspan><tspan
-         y="-39.753555"
+         id="tspan11101"
+         style="font-size:3.88055611px;line-height:1.10000002">and two resistors.</tspan><tspan
+         y="-39.753551"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan9982" /><tspan
-         y="-35.484947"
+         id="tspan9982"
+         style="font-size:3.88055611px;line-height:1.10000002"> </tspan><tspan
+         y="-35.48494"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan9984" /><tspan
-         y="-31.216335"
+         id="tspan9984"
+         style="font-size:3.88055611px;line-height:1.10000002"> </tspan><tspan
+         y="-31.21633"
          x="-164.25824"
          sodipodi:role="line"
-         id="tspan9986" /></text>
+         id="tspan9986"
+         style="font-size:3.88055611px;line-height:1.10000002"> </tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path10080"
@@ -4738,32 +4789,38 @@ and is maintained by Boldport
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <text
-       sodipodi:linespacing="100%"
        id="text10876"
        y="23.217264"
        x="51.357967"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="23.217264"
          x="51.357967"
          sodipodi:role="line"
-         id="tspan11053">LED3 is an indicator LED unrelated to the current driver.</tspan><tspan
-         y="26.745043"
+         id="tspan11053"
+         style="font-size:3.52777791px;line-height:1">LED3 is an indicator LED unrelated to the current driver.</tspan><tspan
+         y="27.58799"
          x="51.357971"
          sodipodi:role="line"
-         id="tspan10892">R3 and R4 are optional resistors to achieve specific</tspan><tspan
-         y="30.27282"
-         x="51.357971"
-         sodipodi:role="line"
-         id="tspan12067">currents. The resistors, C1, and LED3 can</tspan><tspan
-         y="33.800598"
+         id="tspan12067"
+         style="font-size:3.52777791px;line-height:1">R3 and R4 are optional resistors to achieve specific</tspan><tspan
+         y="31.958717"
          x="51.357967"
          sodipodi:role="line"
-         id="tspan11065">alternatively take SMD components.</tspan><tspan
-         y="37.328377"
-         x="51.357967"
+         style="font-size:3.52777791px;line-height:1"
+         id="tspan1147">currents. The resistors, C1 (<tspan
+   style="font-style:italic"
+   id="tspan1149">square pad is positive</tspan>),</tspan><tspan
+         y="36.329445"
+         x="51.357964"
          sodipodi:role="line"
-         id="tspan10890" /></text>
+         id="tspan11065"
+         style="font-size:3.52777791px;line-height:1">and LED3 can alternatively take SMD components.</tspan><tspan
+         y="40.700169"
+         x="53.121857"
+         sodipodi:role="line"
+         id="tspan10890"
+         style="font-size:3.52777791px;line-height:1"> </tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path10906"
@@ -4790,27 +4847,30 @@ and is maintained by Boldport
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777791px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="51.357967"
        y="6.7007365"
-       id="text10916"
-       sodipodi:linespacing="100%"><tspan
+       id="text10916"><tspan
          sodipodi:role="line"
          x="51.357967"
          y="6.7007365"
-         id="tspan11047">Use the pads around R1 to easily measure the</tspan><tspan
+         id="tspan11047"
+         style="font-size:3.52777791px;line-height:1">Use the pads around R1 to easily measure the</tspan><tspan
          sodipodi:role="line"
          x="51.357967"
-         y="10.228515"
-         id="tspan10931">voltage across it, then the current</tspan><tspan
+         y="11.071463"
+         id="tspan10931"
+         style="font-size:3.52777791px;line-height:1">voltage across it, then the current</tspan><tspan
          sodipodi:role="line"
          x="51.357967"
-         y="13.756292"
-         id="tspan12059">through it using Ohm's law.</tspan><tspan
+         y="15.442189"
+         id="tspan12059"
+         style="font-size:3.52777791px;line-height:1">through it using Ohm's law.</tspan><tspan
          id="tspan10924"
          sodipodi:role="line"
-         x="51.357967"
-         y="17.284071" /></text>
+         x="53.121857"
+         y="19.812916"
+         style="font-size:3.52777791px;line-height:1"> </tspan></text>
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
@@ -4837,15 +4897,15 @@ and is maintained by Boldport
        sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-180.24535"
        y="-66.662903"
-       id="text11640"
-       sodipodi:linespacing="125%"><tspan
+       id="text11640"><tspan
          sodipodi:role="line"
          id="tspan11642"
          x="-180.24535"
-         y="-66.662903" /></text>
+         y="-66.662903"
+         style="font-size:11.28888893px;line-height:1.25"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
